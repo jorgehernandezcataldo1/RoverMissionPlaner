@@ -1,0 +1,11 @@
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\bin\Debug\net9.0\RoverMissionPlanner.Domain.deps.json
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\bin\Debug\net9.0\RoverMissionPlanner.Domain.dll
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\bin\Debug\net9.0\RoverMissionPlanner.Domain.pdb
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\RoverMissionPlanner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\RoverMissionPlanner.Domain.AssemblyInfoInputs.cache
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\RoverMissionPlanner.Domain.AssemblyInfo.cs
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\RoverMissionPlanner.Domain.csproj.CoreCompileInputs.cache
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\RoverMissionPlanner.Domain.dll
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\refint\RoverMissionPlanner.Domain.dll
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\RoverMissionPlanner.Domain.pdb
+C:\RoverMissionPlanner\RoverMissionPlanner.Domain\obj\Debug\net9.0\ref\RoverMissionPlanner.Domain.dll
