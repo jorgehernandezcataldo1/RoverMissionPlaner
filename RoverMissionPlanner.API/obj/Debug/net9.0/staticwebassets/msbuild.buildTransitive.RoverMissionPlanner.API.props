@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RoverMissionPlanner.API.props" />
+</Project>

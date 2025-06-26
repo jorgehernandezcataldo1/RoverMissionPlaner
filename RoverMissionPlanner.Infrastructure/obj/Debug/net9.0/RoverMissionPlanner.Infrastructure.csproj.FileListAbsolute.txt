@@ -1,0 +1,15 @@
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\bin\Debug\net9.0\RoverMissionPlanner.Infrastructure.deps.json
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\bin\Debug\net9.0\RoverMissionPlanner.Infrastructure.dll
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\bin\Debug\net9.0\RoverMissionPlanner.Infrastructure.pdb
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\bin\Debug\net9.0\RoverMissionPlanner.Domain.dll
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\bin\Debug\net9.0\RoverMissionPlanner.Domain.pdb
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMissionPlanner.Infrastructure.csproj.AssemblyReference.cache
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMissionPlanner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMissionPlanner.Infrastructure.AssemblyInfoInputs.cache
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMissionPlanner.Infrastructure.AssemblyInfo.cs
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMissionPlanner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMis.5FAD69BE.Up2Date
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMissionPlanner.Infrastructure.dll
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\refint\RoverMissionPlanner.Infrastructure.dll
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\RoverMissionPlanner.Infrastructure.pdb
+C:\RoverMissionPlanner\RoverMissionPlanner.Infrastructure\obj\Debug\net9.0\ref\RoverMissionPlanner.Infrastructure.dll
